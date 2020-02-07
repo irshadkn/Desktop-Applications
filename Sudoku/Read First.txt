@@ -1,0 +1,10 @@
+		             Sudoku v1.0
+
+->A Mind Game and a Puzzle that you Solve with reasoning and Logic.
+->Fill in the Grids with Digits in such a Manner that ecery Row,every         Column and every 3x3 Box accomodates the digits 1 to 9, without          repeating any number.
+
+
+
+	        Thank You For Using this Application.
+           Download More Applications from irshadkn.xtgem.com
+                    Mail your Feedback to irshadkn@yahoo.com

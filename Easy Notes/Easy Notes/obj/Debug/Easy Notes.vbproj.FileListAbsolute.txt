@@ -1,0 +1,22 @@
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy Notes.exe
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy Notes.xml
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy Notes.pdb
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\bin\Debug\Easy Notes.exe
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\bin\Debug\Easy Notes.pdb
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\bin\Debug\Easy Notes.xml
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy_Notes.Form1.resources
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy_Notes.Resources.resources
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy Notes.vbproj.GenerateResource.Cache
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Easy Notes\Easy Notes\obj\Debug\Easy_Notes.Form2.resources
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy Notes.exe
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy Notes.xml
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy Notes.pdb
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\bin\Debug\Easy Notes.exe
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\bin\Debug\Easy Notes.pdb
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\bin\Debug\Easy Notes.xml
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\ResolveAssemblyReference.cache
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy_Notes.Form1.resources
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy_Notes.Form2.resources
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy_Notes.Resources.resources
+F:\Google Drive\My Softwares\Easy Notes 1.0\Easy Notes\obj\Debug\Easy Notes.vbproj.GenerateResource.Cache

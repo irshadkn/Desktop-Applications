@@ -1,0 +1,10 @@
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\bin\Debug\Java Compiler.exe
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\bin\Debug\Java Compiler.pdb
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\bin\Debug\Java Compiler.xml
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\Java_Compiler.Form1.resources
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\Java_Compiler.Resources.resources
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\Java Compiler.vbproj.GenerateResource.Cache
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\Java Compiler.exe
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\Java Compiler.xml
+C:\Users\Irshad\Documents\Visual Studio 2008\Projects\Java Compiler\Java Compiler\obj\Debug\Java Compiler.pdb
